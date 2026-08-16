@@ -1,0 +1,11 @@
+{
+  "size": 91165638,
+  "parts": [
+    "chunks/encoder_model_quantized.onnx.part-00",
+    "chunks/encoder_model_quantized.onnx.part-01",
+    "chunks/encoder_model_quantized.onnx.part-02",
+    "chunks/encoder_model_quantized.onnx.part-03",
+    "chunks/encoder_model_quantized.onnx.part-04",
+    "chunks/encoder_model_quantized.onnx.part-05"
+  ]
+}

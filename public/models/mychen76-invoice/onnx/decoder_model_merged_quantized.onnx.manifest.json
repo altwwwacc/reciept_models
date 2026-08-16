@@ -1,0 +1,13 @@
+{
+  "size": 128696868,
+  "parts": [
+    "chunks/decoder_model_merged_quantized.onnx.part-00",
+    "chunks/decoder_model_merged_quantized.onnx.part-01",
+    "chunks/decoder_model_merged_quantized.onnx.part-02",
+    "chunks/decoder_model_merged_quantized.onnx.part-03",
+    "chunks/decoder_model_merged_quantized.onnx.part-04",
+    "chunks/decoder_model_merged_quantized.onnx.part-05",
+    "chunks/decoder_model_merged_quantized.onnx.part-06",
+    "chunks/decoder_model_merged_quantized.onnx.part-07"
+  ]
+}
